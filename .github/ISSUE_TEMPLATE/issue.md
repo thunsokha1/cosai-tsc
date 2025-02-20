@@ -2,8 +2,8 @@
 name: Issue Report
 about: Create a comprehensive report to help us improve
 title: '[ISSUE] '
-labels: ''
-assignees: ''
+labels: '[Asssitant]'
+assignees: '[Thun Sokha]
 
 ---
 ## Issue Description
